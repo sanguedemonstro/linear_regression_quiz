@@ -3,7 +3,7 @@ Este é o código para o quiz da lição sobre Regressão Linear do Nanodegree d
 
 ## Overview
 
-Para mais detalhes veja [este]() texto.
+Para mais detalhes veja [este](https://joaopaulomelo.wordpress.com/2017/03/30/prevendo-a-expectativa-de-vida-com-regressao-linear) texto.
 
 ## Dependencies
 
