@@ -19,5 +19,5 @@ plt.show()
 #prevendo a expectativa de vida para um IMC = 21.07931
 laos_life_exp = bmi_life_model.predict([[21.07931]])
 
-#imprimindo a expectativa de vista prevista
+#imprimindo a expectativa de vida prevista
 print(laos_life_exp[0][0])
